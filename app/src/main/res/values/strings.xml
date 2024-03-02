@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IndoFood</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="asal_makanan">Asal Makanan</string>
+    <string name="harga_makanan">Harga Makanan</string>
+    <string name="about">About</string>
+    <string name="nama_makanan_daerah">Nama Makanan Daerah</string>
+    <string name="harga">Harga</string>
+    <string name="asal">Asal</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="indofood">IndoFood</string>
+</resources>
