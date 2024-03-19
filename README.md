@@ -1,1 +1,1 @@
-Projek ini menggunakan Recycleview sebagai penampil dari data yang akan dibagikan
+This project uses Recycleview as a viewer of the data to be shared
